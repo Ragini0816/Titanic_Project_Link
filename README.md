@@ -32,4 +32,4 @@ To analyze the Titanic dataset through Exploratory Data Analysis (EDA) and under
 
 ## Author
 Yegupati Ragini  
-LinkedIn: https://www.linkedin.com/in/ragini-chowdhary-7648342a1  
+LinkedIn: https://www.linkedin.com/in/yegupati-ragini/  
